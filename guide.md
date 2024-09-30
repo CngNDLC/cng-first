@@ -23,3 +23,11 @@ git commit -m "commit description"
 ``` 
 git push
 ```
+## 5. choose file u go 
+```
+cd <file name>
+```
+## 6. show list file
+```
+ls -la
+```
